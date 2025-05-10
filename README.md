@@ -84,7 +84,3 @@ or for errors:
   "message": "Error"
 }
 ```
-
-## License
-
-ISC 
